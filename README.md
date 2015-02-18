@@ -1,2 +1,3 @@
 # AndroidPaint
-Sample androidpaint application 
+
+Sample androidpaint application
